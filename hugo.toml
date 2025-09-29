@@ -1,6 +1,6 @@
 languageCode = 'pt-br'
 title = 'Arthur Correa'
-theme = 'ananke'
+theme = 'hello-friend'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
