@@ -10,3 +10,7 @@ theme = 'hello-friend'
   filename = 'sitemap.xml'
   priority = -1
 enableRobotsTXT = true
+[[params.social]]
+  name = "github"
+  url = "https://github.com/seuusuario"
+
