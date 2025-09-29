@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arthur Correa</title>
-    <link>https://arthuralcorrea.github.io/</link>
+    <link>/</link>
     <description>Recent content on Arthur Correa</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://arthuralcorrea.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre</title>
-      <link>https://arthuralcorrea.github.io/sobre/</link>
+      <link>/sobre/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://arthuralcorrea.github.io/sobre/</guid>
+      <guid>/sobre/</guid>
       <description>&lt;p&gt;Bem-vindo à página Sobre!&lt;/p&gt;&#xA;&lt;p&gt;Aqui você pode adicionar informações sobre você, seu site ou qualquer outro conteúdo relevante.&lt;/p&gt;&#xA;&lt;p&gt;Esta página foi criada seguindo as práticas idiomáticas do Hugo, utilizando o diretório &lt;code&gt;content&lt;/code&gt; e o formato Markdown.&lt;/p&gt;</description>
     </item>
   </channel>

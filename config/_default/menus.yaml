@@ -1,0 +1,5 @@
+main:
+  - identifier: sobre
+    name: Sobre
+    url: /sobre/
+    weight: 10
