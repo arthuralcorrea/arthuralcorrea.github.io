@@ -3,3 +3,7 @@ main:
     name: Sobre
     url: /sobre/
     weight: 10
+  - identifier: blog
+    name: Blog
+    url: /blog/
+    weight: 20
